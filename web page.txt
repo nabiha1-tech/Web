@@ -1,0 +1,27 @@
+<html>
+ <head><tittle>my first web page</tittle></head>
+<body>
+  <h1>my first html</h1>
+  <p>im doing html now and learning css in progress<br>
+  <p>this website is just for testing my html skills<br>
+  <p>i knw how to insert pictures but its give me error <br>
+  <p>please do not laugh the ine who read this<br>error is something that irritate me </p>
+  <p> im a learner </p>
+  <h2>for more details contact us</h2>
+  <u>123456789</u>
+  </body>
+  <header>
+    <h1>My Website</h1>
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+<footer>
+    <p>&copy; 2025 My Website | All Rights Reserved</p>
+</footer>
+</html>
